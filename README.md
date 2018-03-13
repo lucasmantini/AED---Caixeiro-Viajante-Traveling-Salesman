@@ -2,7 +2,7 @@
 
 Problema do Caixeiro Viajante utilizando a estruturação de dados e complexdade de algortimos diferentes para sua resolução. Trabalho feito em colaboração com um colega de turma.
 
-1ª complexidade: Força Bruta (O(n!))
+<br>1ª complexidade: Força Bruta (O(n!))
 2ª complexidade: Tentativa e Erro (O(n^1,26))
 3ª complexidade: Quadrática (O(n²))
 
